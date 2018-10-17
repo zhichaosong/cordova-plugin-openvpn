@@ -1,0 +1,37 @@
+{
+  "name": "cordova-plugin-openvpn",
+  "version": "0.0.1",
+  "description": "Cordova OpenVPN Plugin,use OpenVPN SDK",
+  "cordova": {
+    "id": "cordova-plugin-openvpn",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhichaosong/cordova-plugin-openvpn.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "vpn",
+    "openvpn",
+    "device",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "zhichaosong",
+  "license": "Apache-2.0",
+  "engines": {
+    "cordovaDependencies": {
+      "2.0.0": { "cordova-android": ">=5.0.0" },
+      "3.0.0": { "cordova-android": ">=5.0.0" }
+    }
+  },
+  "bugs": {
+    "url": "https://github.com/zhichaosong/cordova-plugin-openvpn/issues"
+  },
+  "homepage": "https://github.com/zhichaosong/cordova-plugin-openvpn#readme"
+}
